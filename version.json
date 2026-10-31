@@ -1,0 +1,8 @@
+{
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "url": "https://raw.githubusercontent.com/santyaf/TFT-Connect-releases/main/TFTConnect-1.1.8.apk",
+  "sha256": "447e74aeece8aeb45558683a4d37aa8977d7dad420c0673413a7f17af5cfdf54",
+  "notas": "Más estable: si una tarea interna falla, la app ya no se cierra",
+  "minima": 0
+}
